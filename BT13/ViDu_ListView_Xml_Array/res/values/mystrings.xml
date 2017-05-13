@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="YoloBoys">
+        <item >Thắng</item>
+        <item >Tuấn</item>
+        <item >Trung</item>
+        <item >Tiến</item>
+        <item >Thọ</item>
+        <item >Vĩ</item>
+    </string-array>
+    
+</resources>
